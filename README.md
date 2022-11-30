@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:3494E6,100:EC6EAD&height=300&section=header&text=YUHAPARK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:3494E6,100:EC6EAD&height=300&section=header&text=YUHAPARK&fontSize=90)
 
 # 🚀 SKILLS 🚀
 

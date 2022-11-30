@@ -1,6 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:3494E6,100:EC6EA&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align="center">
+ 
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=0:3494E6,100:EC6EA&height=300&section=header&text=capsule%20render&fontSize=90)
 
 # 🚀 SKILLS 🚀
 

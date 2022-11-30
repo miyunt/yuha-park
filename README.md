@@ -10,9 +10,6 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
-# CONTACT
- 
-<img src="https://img.shields.io/badge/Email-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 </div>
 

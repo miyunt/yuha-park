@@ -13,3 +13,5 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=0:3494E6,100:EC6EAD&height=300&section=footer)

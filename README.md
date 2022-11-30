@@ -2,6 +2,7 @@
 
 <div align="center">
  
+ 
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:3494E6,100:EC6EAD&height=300&section=header&text=YUHA PARK&fontSize=90)
 
 # 🚀 SKILLS 🚀
